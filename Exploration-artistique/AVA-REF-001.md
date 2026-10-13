@@ -1,4 +1,4 @@
-# AI Visual Atlas — AVA-REF-001
+# laboStudio est une Exploration-artistique — AVA-REF-001
 
 ## Identité
 
