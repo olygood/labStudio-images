@@ -13,7 +13,13 @@ Unsupported	Non disponible dans l'outil actuel, mais conservée dans notre catal
 Ainsi, on pourra documenter un objectif comme « profondeur de champ très précise » même si le modèle ne propose pas de réglage numérique correspondant.
 On ne bride pas notre imagination. On garde simplement une trace fiable de ce qui fonctionne réellement.
 
-
+```md
+| Fonction | Syntaxe | Usage |
+| --- | --- | --- |
+| Gras | `**texte**` | Mettre en valeur |
+| Code | `` `x` `` | Nom de variable |
+| Liste | `- élément` | Étapes courtes |
+```
 Statut:  Signification  
 Native:  Réglage directement pris en charge par l'outil  
 Prompt:  Instruction exprimée en langage naturel  
