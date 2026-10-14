@@ -16,7 +16,7 @@ On ne bride pas notre imagination. On garde simplement une trace fiable de ce qu
 ```md
 
 
-| Statut       | Signification                                                                 |
+| **Statut**       | **Signification**                                                                 |
 |--------------|-------------------------------------------------------------------------------|
 | Native       | Réglage directement pris en charge par l'outil                                 |
 | Prompt       | Instruction exprimée en langage naturel                                       |
