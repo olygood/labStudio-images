@@ -32,7 +32,7 @@ On ne bride pas notre imagination. On garde simplement une trace fiable de ce qu
 | **Important** | Avec du **gras** |
 | Code | `npm install` |
 | Documentation | [Voir le guide](docs/guide.md) |
-| État | ✅ Terminé |
+| État | ✅ Terminé | ✅ ok|📞 **0498596517**|
 
 
 > Ainsi, on pourra documenter un objectif comme « profondeur de champ très précise » même si le modèle ne propose pas > de réglage numérique correspondant.
