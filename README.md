@@ -103,6 +103,7 @@ Cela nous donne déjà 12 familles de paramètres à explorer. Chaque famille po
 
 # 3.Comment les intégrer à notre GitHub  
 Je conserverais notre structure validée et j'ajouterais un catalogue transversal d'options.  
+```
 labStudio-images/
 │
 ├── README.md
@@ -126,3 +127,4 @@ labStudio-images/
     ├── Atmosphere/
     ├── References/
     └── Output/
+```
