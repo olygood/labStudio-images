@@ -15,13 +15,15 @@ On ne bride pas notre imagination. On garde simplement une trace fiable de ce qu
 
 ```md
 
-| Statut | Signification |
-|---|---|
-| Native | Réglage directement pris en charge par l'outil |
-| Prompt | Instruction exprimée en langage naturel |
-| Experimental | Technique à tester, résultat non garanti |
-| Future | Capacité envisagée pour de futurs modèles |
-| Unsupported | Non disponible dans l'outil actuel, mais conservée dans notre catalogue |
+
+| Statut       | Signification                                                                 |
+|--------------|-------------------------------------------------------------------------------|
+| Native       | Réglage directement pris en charge par l'outil                                 |
+| Prompt       | Instruction exprimée en langage naturel                                       |
+| Experimental | Technique à tester, résultat non garanti                                      |
+| Future       | Capacité envisagée pour de futurs modèles                                     |
+| Unsupported  | Non disponible dans l'outil actuel, mais conservée dans notre catalogue       |
+
 
 
 ```
