@@ -26,6 +26,7 @@ On ne bride pas notre imagination. On garde simplement une trace fiable de ce qu
 
 2. Le catalogue des possibilités du laboratoire
 Voici les grandes familles que je prévois. Ce n'est pas une liste fermée : nous pourrons ajouter des propriétés sans reconstruire tout le système.
+```
 01
 
 Sujet et narration
@@ -96,8 +97,7 @@ Contraintes et exclusions
 
 Génération et reproductibilité
 Modèle, version, seed, paramètres natifs, prompt exact, références utilisées, historique des essais
-
-
+```
 
 Cela nous donne déjà 12 familles de paramètres à explorer. Chaque famille pourra contenir des dizaines de propriétés et de techniques.
 
