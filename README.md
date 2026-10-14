@@ -13,7 +13,7 @@ Unsupported	Non disponible dans l'outil actuel, mais conservée dans notre catal
 Ainsi, on pourra documenter un objectif comme « profondeur de champ très précise » même si le modèle ne propose pas de réglage numérique correspondant.
 On ne bride pas notre imagination. On garde simplement une trace fiable de ce qui fonctionne réellement.
 
-```md
+
 
 
 | **Statut**       | **Signification**                                                                 |
@@ -24,16 +24,16 @@ On ne bride pas notre imagination. On garde simplement une trace fiable de ce qu
 | Future       | Capacité envisagée pour de futurs modèles                                     |
 | Unsupported  | Non disponible dans l'outil actuel, mais conservée dans notre catalogue       |
 
-```
 
-```md
+
+
 | Élément | Détail |
 | --- | --- |
 | **Important** | Avec du **gras** |
 | Code | `npm install` |
 | Documentation | [Voir le guide](docs/guide.md) |
 | État | ✅ Terminé |
-```
+
 
 > Ainsi, on pourra documenter un objectif comme « profondeur de champ très précise » même si le modèle ne propose pas > de réglage numérique correspondant.
 > On ne bride pas notre imagination. On garde simplement une trace fiable de ce qui fonctionne réellement.
