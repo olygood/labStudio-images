@@ -128,3 +128,27 @@ labStudio-images/
     ├── References/
     └── Output/
 ```
+### 4. Une propriété doit être testable  
+Prenons une option ambitieuse : Depth of Field.
+Au lieu d'écrire simplement « profondeur de champ », notre catalogue pourra conserver :
+```
+Depth of Field — Profondeur de champ
+Propriété	Exemple
+Catégorie	Camera / Optics
+Ouverture	f/1.4, f/2.8, f/8, f/16
+Distance de mise au point	2 m
+Focale	85 mm
+Plan focal	Sujet principal
+Arrière-plan	Flou progressif
+Méthode	Native / Prompt / Experimental
+Résultat du test	À documenter
+```
+Même si une IA ignore f/2.8, nous conservons cette valeur et nous testons son effet. Nous ne prétendons simplement pas qu'elle contrôle physiquement l'optique.
+### 5. Notre règle pour Experiments/  
+Chaque expérience devra permettre de répondre à quatre questions :
+1. Qu'avons-nous demandé ?
+2. Qu'avons-nous envoyé réellement à l'IA ?
+3. Qu'avons-nous obtenu ?
+4. Qu'avons-nous appris ?
+Cela permettra de tester les propriétés isolément, puis de les combiner pour découvrir des interactions intéressantes.
+Et surtout, nous pourrons comparer les résultats entre différents modèles, au lieu de dépendre d'une seule IA.
