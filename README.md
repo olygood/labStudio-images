@@ -22,5 +22,12 @@ On ne bride pas notre imagination. On garde simplement une trace fiable de ce qu
 |Unsupported:|    Non disponible dans l'outil actuel, mais conservée dans notre catalogue |
 
 ```
+```md
+| Symbole | Signification |
+| --- | --- |
+| `\|` | Barre verticale |
+| `&&` | ET logique |
+```
+
 > Ainsi, on pourra documenter un objectif comme « profondeur de champ très précise » même si le modèle ne propose pas > de réglage numérique correspondant.
 > On ne bride pas notre imagination. On garde simplement une trace fiable de ce qui fonctionne réellement.
