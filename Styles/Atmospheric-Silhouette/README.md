@@ -17,7 +17,7 @@ Style visuel basé sur des silhouettes fortes, des contre-jours et une atmosphè
 
 | Catégorie | Terme |
 |----|----------|
-| Style graphique:|	*Minimalist Stylized Illustration* |
-| Technique de construction:| *Shape-Based Illustration* |
-| Traitement des couleurs: | *Flat Color Rendering* |    
+|- Style graphique:|	*Minimalist Stylized Illustration* |
+|- Technique de construction:| *Shape-Based Illustration* |
+|- Traitement des couleurs: | *Flat Color Rendering* |    
 ---
