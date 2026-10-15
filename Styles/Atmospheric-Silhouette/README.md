@@ -8,6 +8,11 @@ Style visuel basé sur des silhouettes fortes, des contre-jours et une atmosphè
 - `Images/` : images générées et sélectionnées.
 - `Experiments/` : essais documentés et résultats.
 
+Il décrit trois caractéristiques essentielles :
+- Atmospheric : brume, profondeur, superposition des plans.
+- Silhouette : formes dominantes, masses graphiques, contours expressifs.
+- Illustration : rendu artistique 2D, plutôt que modélisation 3D ou photographie.
+
 #### Il décrit trois caractéristiques essentielles :
 | Caractéristique | Définition |
 |---|----------|
