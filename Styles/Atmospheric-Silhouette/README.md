@@ -2,7 +2,7 @@
  > **Atmospheric Silhouette**  
  > Atmospheric 2D Illustration  
  > Minimalist Stylized 2D Illustration  
- > *Style visuel basé sur des silhouettes fortes, des contre-jours et une atmosphère marquée.*  
+  *Style visuel basé sur des silhouettes fortes, des contre-jours et une atmosphère marquée.*  
 ---
 ## Contenu
 - `prompt.md` : prompt de référence et variantes.
