@@ -1,4 +1,4 @@
-2. Les quatre catégories fondamentales
+### 1 Les quatre catégories fondamentales
 
 Catégorie
 
