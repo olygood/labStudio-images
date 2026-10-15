@@ -8,8 +8,12 @@ Style visuel basé sur des silhouettes fortes, des contre-jours et une atmosphè
 - `Images/` : images générées et sélectionnées.
 - `Experiments/` : essais documentés et résultats.
 
-## Convention :
-Conserver le prompt exact, le modèle utilisé, les paramètres disponibles et les observations pour chaque essai. Respecter les licences et noter la source des références.
+#### Il décrit trois caractéristiques essentielles :
+| Caractéristique | Définition |
+|- Atmospheric :| brume, profondeur, superposition des plans. |
+|- Silhouette : | formes dominantes, masses graphiques, contours expressifs.|
+|- Illustration :| rendu artistique 2D, plutôt que modélisation 3D ou photographie.|
+
 | Catégorie | Terme |
 |----|----------|
 | Style graphique:|	*Minimalist Stylized Illustration* |
