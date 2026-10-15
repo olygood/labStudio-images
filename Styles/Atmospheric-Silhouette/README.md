@@ -1,91 +1,52 @@
-### 1 Les quatre catégories fondamentales
 
-Catégorie
+## 1. Les quatre catégories fondamentales
 
-Définition
-
-Exemples
-
-Discipline artistique
-
-Domaine de création auquel appartient l'image
-
-Illustration, Concept Art, Digital Painting
-
-Style graphique
-
-Langage visuel qui caractérise la représentation
-
-Flat Illustration, Minimalism, Line Art, Pixel Art
-
-Technique graphique
-
-Procédé utilisé pour construire et représenter l'image
-
-Shape-Based Construction, Cel Shading, Silhouette-Based Composition
-
-Effet visuel
-
-Traitement supplémentaire appliqué à l'image
-
-Atmospheric Perspective, Depth of Field, Motion Blur
+| Catégorie | Définition | Exemples |
+|---|---|---|
+| **Discipline artistique** | Domaine de création auquel appartient l'image | Illustration, Concept Art, Digital Painting |
+| **Style graphique** | Langage visuel qui caractérise la représentation | Flat Illustration, Minimalism, Line Art, Pixel Art |
+| **Technique graphique** | Procédé utilisé pour construire et représenter l'image | Shape-Based Construction, Cel Shading, Silhouette-Based Composition |
+| **Effet visuel** | Traitement supplémentaire appliqué à l'image | Atmospheric Perspective, Depth of Field, Motion Blur |
 
 Ces catégories sont complémentaires, mais ne sont pas interchangeables.
 
-3. Méthode d'analyse visuelle
+## 2. Méthode d'analyse visuelle
 
 Pour chaque image, examiner systématiquement :
 
-A. Construction des formes
+### A. Construction des formes
 
-Formes géométriques ou organiques.
+- Formes géométriques ou organiques.
+- Formes simples ou complexes.
+- Grandes masses graphiques ou détails nombreux.
+- Silhouettes dominantes ou contours détaillés.
+- Construction plate ou volumétrique.
 
-Formes simples ou complexes.
+### B. Traitement des couleurs
 
-Grandes masses graphiques ou détails nombreux.
+- Aplats de couleurs ou dégradés.
+- Palette limitée ou étendue.
+- Couleurs saturées ou désaturées.
+- Contrastes forts ou faibles.
 
-Silhouettes dominantes ou contours détaillés.
+### C. Traitement des surfaces
 
-Construction plate ou volumétrique.
+- Surfaces uniformes ou texturées.
+- Détails internes rares ou nombreux.
+- Rendu graphique, pictural ou photoréaliste.
+- Ombrage minimal, stylisé ou réaliste.
 
-B. Traitement des couleurs
+### D. Représentation de la profondeur
 
-Aplats de couleurs ou dégradés.
+- Composition plate ou profondeur marquée.
+- Superposition des plans.
+- Perspective géométrique.
+- Perspective atmosphérique.
 
-Palette limitée ou étendue.
+### E. Niveau de stylisation
 
-Couleurs saturées ou désaturées.
-
-Contrastes forts ou faibles.
-
-C. Traitement des surfaces
-
-Surfaces uniformes ou texturées.
-
-Détails internes rares ou nombreux.
-
-Rendu graphique, pictural ou photoréaliste.
-
-Ombrage minimal, stylisé ou réaliste.
-
-D. Représentation de la profondeur
-
-Composition plate ou profondeur marquée.
-
-Superposition des plans.
-
-Perspective géométrique.
-
-Perspective atmosphérique.
-
-E. Niveau de stylisation
-
-Abstraction.
-
-Simplification graphique.
-
-Stylisation modérée.
-
-Représentation réaliste.
-
-Photoréalisme.
+- Abstraction.
+- Simplification graphique.
+- Stylisation modérée.
+- Représentation réaliste.
+- Photoréalisme.
