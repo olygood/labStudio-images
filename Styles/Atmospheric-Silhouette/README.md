@@ -7,12 +7,12 @@ Style visuel basé sur des silhouettes fortes, des contre-jours et une atmosphè
 - `References/` : images d'inspiration et références externes.
 - `Images/` : images générées et sélectionnées.
 - `Experiments/` : essais documentés et résultats.
-
-- Nom du dossier : Atmospheric-Silhouette-Illustration
+---
++ Nom du dossier : Atmospheric-Silhouette-Illustration
 - Titre du README : Atmospheric Silhouette Illustration
 - Classification technique : Stylized 2D Environment Illustration
 - Techniques associées : Atmospheric Perspective, Silhouette-Based Composition, Flat Color Rendering.
-
+---
 #### Il décrit trois caractéristiques essentielles :
 | Caractéristique | Définition |
 |---|----------|
