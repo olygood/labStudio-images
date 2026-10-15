@@ -143,7 +143,10 @@ Résultat du test	À documenter
 ```
 Même si une IA ignore f/2.8, nous conservons cette valeur et nous testons son effet. Nous ne prétendons simplement pas qu'elle contrôle physiquement l'optique.
 ### 5. Notre règle pour Experiments/  
-Chaque expérience devra permettre de répondre à quatre questions :
+Chaque expérience devra permettre de répondre à quatre questions :  
+## Comment tout s'emboite :  
+<img width="1038" height="733" alt="image" src="https://github.com/user-attachments/assets/16588130-7f86-4c9b-b2b9-c5160193c561" />
+
 1. Qu'avons-nous demandé ?
 2. Qu'avons-nous envoyé réellement à l'IA ?
 3. Qu'avons-nous obtenu ?
