@@ -1,10 +1,3 @@
-## NOM : 
- > **Atmospheric Silhouette**  
- > Atmospheric 2D Illustration  
- > Minimalist Stylized 2D Illustration  
- « *Style visuel basé sur des silhouettes fortes, des contre-jours et une atmosphère marquée.* »
----
-
 # Analyse des styles artistiques — Référence
 
 ## 1. Historique des appellations proposées
