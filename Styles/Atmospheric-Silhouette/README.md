@@ -27,4 +27,12 @@
 |- Style graphique:|	*Minimalist Stylized Illustration* |
 |- Technique de construction:| *Shape-Based Illustration* |
 |- Traitement des couleurs: | *Flat Color Rendering* |    
----
+---  
+Flat Shape Illustration  
+En français : Illustration par formes en aplats.  
+Ce nom repose sur deux notions graphiques réelles :  
+- Flat Illustration : une approche qui privilégie les aplats de couleurs, sans rendu volumétrique complexe.  
+- Shape-Based Illustration : une construction des objets à partir de formes simples et de grandes masses graphiques.
+- il décrit directement la manière dont les images sont dessinées.
+- Shape-Based Construction
+  
