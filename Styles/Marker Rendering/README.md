@@ -2,11 +2,12 @@
 #### images  
 <img src="https://github.com/olygood/labStudio-images/blob/main/Styles/Marker%20Rendering/Images/Marker_rendering_illustration.png" width="300" alt="Marker Rendering illustration">  
 ## 1. Classification artistique
-
-**Style principal :** Marker Rendering Illustration  
-**Technique principale :** Alcohol Marker Rendering  
-**Discipline :** Illustration / Product Design / Concept Sketching  
-**Approche graphique :** Stylized Hand-Drawn Illustration  
+|Element||Technique|
+|---||-----|
+|Style principal| Marker Rendering Illustration |  
+|Technique principale| Alcohol Marker Rendering|  
+|Discipline| Illustration / Product Design / Concept Sketching|    
+|Approche graphique|Stylized Hand-Drawn Illustration|  
 **Traitement des contours :** Bold Ink Outlines  
 **Construction des volumes :** Stylized 3D Form Rendering  
 **Technique d'ombrage :** Graphic Shading / Cross-Hatching  
