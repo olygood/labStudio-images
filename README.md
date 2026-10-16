@@ -74,7 +74,7 @@ labStudio-images/
 ### 4. Une propriété doit être testable  
 Prenons une option ambitieuse : Depth of Field.
 Au lieu d'écrire simplement « profondeur de champ », notre catalogue pourra conserver :
-```
+
 Depth of Field — Profondeur de champ
 Propriété	Exemple
 Catégorie	Camera / Optics
@@ -85,7 +85,7 @@ Plan focal	Sujet principal
 Arrière-plan	Flou progressif
 Méthode	Native / Prompt / Experimental
 Résultat du test	À documenter
-```
+
 Même si une IA ignore f/2.8, nous conservons cette valeur et nous testons son effet. Nous ne prétendons simplement pas qu'elle contrôle physiquement l'optique.
 ### 5. Notre règle pour Experiments/  
 Chaque expérience devra permettre de répondre à quatre questions :  
