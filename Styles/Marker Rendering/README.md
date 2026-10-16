@@ -8,13 +8,14 @@
 |Technique principale| Alcohol Marker Rendering|  
 |Discipline| Illustration / Product Design / Concept Sketching|    
 |Approche graphique|Stylized Hand-Drawn Illustration|  
-**Traitement des contours :** Bold Ink Outlines  
-**Construction des volumes :** Stylized 3D Form Rendering  
-**Technique d'ombrage :** Graphic Shading / Cross-Hatching  
-**Palette chromatique :** Vibrant and Saturated Colors  
-**Texture :** Visible Marker Strokes  
-**Éclairage :** White Highlights / Reflective Accents  
-**Support visuel :** White Paper Background
+|Traitement des contours|Bold Ink Outlines  |  
+|Construction des volumes | Stylized 3D Form Rendering |    
+|Technique d'ombrage |Graphic Shading / Cross-Hatching | 
+|Palette chromatique | Vibrant and Saturated Colors  |  
+|Texture |Visible Marker Strokes  |  
+|Éclairage |White Highlights / Reflective Accents |    
+|Support visuel |White Paper Background |  
+
 
 ---
 
