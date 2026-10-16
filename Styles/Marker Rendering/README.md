@@ -4,7 +4,8 @@
 ## 1. Classification artistique  
 
 |Element||Technique|
-|---||-----|
+|---||-----|  
+
 |Style principal| Marker Rendering Illustration |  
 |Technique principale| Alcohol Marker Rendering|  
 |Discipline| Illustration / Product Design / Concept Sketching|    
