@@ -29,67 +29,27 @@ Voici les grandes familles que je prévois. Ce n'est pas une liste fermée : nou
 ```
 01. Sujet et narration
     Sujet principal, action, interactions, époque, contexte, émotion, histoire racontée
-
-
 02. Style et techniques artistiques
 Mouvements, médiums, aplats, silhouettes, traits, textures, niveaux d'abstraction, références artistiques
-
-
 03. Composition
 Règle des tiers, symétrie, rythme, espaces négatifs, points focaux, couches visuelles
-
-
-04
-
-Caméra et optique
+04. Caméra et optique
 Angle, focale, objectif, ouverture, zoom, distance, perspective, profondeur de champ, distorsion
-
-
-05
-
-Lumière
+05. Lumière
 Direction, intensité, température, diffusion, ombres, contre-jour, éclairage de studio, sources multiples
-
-
-06
-
-Couleur
+06. Couleur
 Palettes, harmonie, saturation, luminance, contraste, color grading, LUT, profils colorimétriques
-
-
-07
-
-Matières et surfaces
+07. Matières et surfaces
 Rugosité, réflexion, transparence, translucidité, usure, grain, rendu plat ou volumétrique
-
-
-08
-
-Atmosphère et environnement
+08. Atmosphère et environnement
 Brume, pluie, poussière, fumée, météo, saison, particules, perspective atmosphérique
-
-
-09
-
-Références et contrôles visuels
+09. Références et contrôles visuels
 Images de style, composition, personnage, pose, profondeur, masques, esquisses, cartes de contrôle
-
-
-10
-
-Sortie et qualité
+10. Sortie et qualité
 Ratio, résolution, cadrage, transparence, cohérence de série, upscaling, variations
-
-
-11
-
-Contraintes et exclusions
+11. Contraintes et exclusions
 Éléments obligatoires, éléments interdits, priorités, zones à préserver
-
-
-12
-
-Génération et reproductibilité
+12. Génération et reproductibilité
 Modèle, version, seed, paramètres natifs, prompt exact, références utilisées, historique des essais
 ```
 
