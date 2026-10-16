@@ -27,7 +27,7 @@ On ne bride pas notre imagination. On garde simplement une trace fiable de ce qu
 
 2. Le catalogue des possibilités du laboratoire
 Voici les grandes familles que je prévois. Ce n'est pas une liste fermée : nous pourrons ajouter des propriétés sans reconstruire tout le système.
-
+```
 01. Sujet et narration Sujet principal, action, interactions, époque, contexte, émotion, histoire racontée  
 02. Style et techniques artistiques Mouvements, médiums, aplats, silhouettes, traits, textures, niveaux d'abstraction, références artistiques  
 03. Composition Règle des tiers, symétrie, rythme, espaces négatifs, points focaux, couches visuelles  
@@ -40,7 +40,7 @@ Voici les grandes familles que je prévois. Ce n'est pas une liste fermée : nou
 10. Sortie et qualité Ratio, résolution, cadrage, transparence, cohérence de série, upscaling, variations  
 11. Contraintes et exclusions Éléments obligatoires, éléments interdits, priorités, zones à préserver  
 12. Génération et reproductibilité Modèle, version, seed, paramètres natifs, prompt exact, références utilisées, historique des essais  
-
+```
 
 Cela nous donne déjà 12 familles de paramètres à explorer. Chaque famille pourra contenir des dizaines de propriétés et de techniques.
 
@@ -75,19 +75,19 @@ labStudio-images/
 ### 4. Une propriété doit être testable  
 Prenons une option ambitieuse : Depth of Field.
 Au lieu d'écrire simplement « profondeur de champ », notre catalogue pourra conserver :
-
-```
 Depth of Field — Profondeur de champ
-Propriété	Exemple
-Catégorie	Camera / Optics
-Ouverture	f/1.4, f/2.8, f/8, f/16
-Distance de mise au point	2 m
-Focale	85 mm
-Plan focal	Sujet principal
-Arrière-plan	Flou progressif
-Méthode	Native / Prompt / Experimental
-Résultat du test	À documenter
-```
+
+|Propriété|	Exemple|
+|---------|----------|
+|Catégorie|	Camera / Optics|
+|Ouverture|	f/1.4, f/2.8, f/8, f/16|
+|Distance| de mise au point	2 m|
+|Focale|	85 mm|
+|Plan focal|	Sujet principal|
+|Arrière-plan|	Flou progressif|
+|Méthode|	Native / Prompt / Experimental|
+|Résultat du test|	À documenter|
+
 Même si une IA ignore f/2.8, nous conservons cette valeur et nous testons son effet. Nous ne prétendons simplement pas qu'elle contrôle physiquement l'optique.
 ### 5. Notre règle pour Experiments/  
 Chaque expérience devra permettre de répondre à quatre questions :  
