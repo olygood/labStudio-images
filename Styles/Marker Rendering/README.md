@@ -3,7 +3,7 @@
 <img src="https://github.com/olygood/labStudio-images/blob/main/Styles/Marker%20Rendering/Images/Marker_rendering_illustration.png" width="300" alt="Marker Rendering illustration">  
 ## 1. Classification artistique  
 
-|Element||Technique|
+|Element|Technique|
 |---|-----|  
 
 |Style principal| Marker Rendering Illustration |  
