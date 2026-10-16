@@ -1,5 +1,6 @@
 # labStudio-images
-Laboratoire créatif dédié à la génération d'images par IA : méthodes de prompting, styles artistiques, techniques visuelles, modèles réutilisables et expérimentations.
+Laboratoire créatif dédié à la génération d'images par IA : méthodes de prompting,  
+styles artistiques, techniques visuelles, modèles réutilisables et expérimentations.  
 ### 1. Notre philosophie : tout prévoir, sans tout imposer  
 Je propose de classer chaque option selon son niveau de prise en charge.
 1. Notre philosophie : tout prévoir, sans tout imposer
@@ -27,18 +28,30 @@ On ne bride pas notre imagination. On garde simplement une trace fiable de ce qu
 2. Le catalogue des possibilités du laboratoire
 Voici les grandes familles que je prévois. Ce n'est pas une liste fermée : nous pourrons ajouter des propriétés sans reconstruire tout le système.
 ```
-01. Sujet et narration Sujet principal, action, interactions, époque, contexte, émotion, histoire racontée  
-02. Style et techniques artistiques Mouvements, médiums, aplats, silhouettes, traits, textures, niveaux d'abstraction, références artistiques  
-03. Composition Règle des tiers, symétrie, rythme, espaces négatifs, points focaux, couches visuelles  
-04. Caméra et optique Angle, focale, objectif, ouverture, zoom, distance, perspective, profondeur de champ, distorsion  
-05. Lumière Direction, intensité, température, diffusion, ombres, contre-jour, éclairage de studio, sources multiples  
-06. Couleur Palettes, harmonie, saturation, luminance, contraste, color grading, LUT, profils colorimétriques  
-07. Matières et surfaces Rugosité, réflexion, transparence, translucidité, usure, grain, rendu plat ou volumétrique  
-08. Atmosphère et environnementBrume, pluie, poussière, fumée, météo, saison, particules, perspective atmosphérique
-09. Références et contrôles visuels Images de style, composition, personnage, pose, profondeur, masques, esquisses, cartes de contrôle  
-10. Sortie et qualité Ratio, résolution, cadrage, transparence, cohérence de série, upscaling, variations  
-11. Contraintes et exclusions Éléments obligatoires, éléments interdits, priorités, zones à préserver  
-12. Génération et reproductibilité Modèle, version, seed, paramètres natifs, prompt exact, références utilisées, historique des essais  
+01. Sujet et narration Sujet principal, action, interactions, époque, contexte, émotion,  
+ histoire racontée  
+02. Style et techniques artistiques Mouvements, médiums, aplats, silhouettes, traits,  
+ textures, niveaux d'abstraction, références artistiques  
+03. Composition Règle des tiers, symétrie, rythme, espaces négatifs, points focaux,  
+ couches visuelles  
+04. Caméra et optique Angle, focale, objectif, ouverture, zoom, distance, perspective,  
+ profondeur de champ, distorsion  
+05. Lumière Direction, intensité, température, diffusion, ombres, contre-jour,  
+éclairage de studio, sources multiples  
+06. Couleur Palettes, harmonie, saturation, luminance, contraste, color grading,  
+ LUT, profils colorimétriques  
+07. Matières et surfaces Rugosité, réflexion, transparence, translucidité, usure,  
+ grain, rendu plat ou volumétrique  
+08. Atmosphère et environnement Brume, pluie, poussière, fumée, météo, saison,  
+ particules, perspective atmosphérique  
+09. Références et contrôles visuels Images de style, composition, personnage, pose,  
+ profondeur, masques, esquisses, cartes de contrôle  
+10. Sortie et qualité Ratio, résolution, cadrage, transparence, cohérence de série,  
+ upscaling, variations  
+11. Contraintes et exclusions Éléments obligatoires, éléments interdits, priorités,  
+ zones à préserver  
+12. Génération et reproductibilité Modèle, version, seed, paramètres natifs,  
+ prompt exact, références utilisées, historique des essais  
 ```
 
 Cela nous donne déjà 12 familles de paramètres à explorer. Chaque famille pourra contenir des dizaines de propriétés et de techniques.
