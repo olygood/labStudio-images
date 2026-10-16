@@ -14,9 +14,9 @@ Unsupported	Non disponible dans l'outil actuel, mais conservée dans notre catal
 Ainsi, on pourra documenter un objectif comme « profondeur de champ très précise » même si le modèle ne propose pas de réglage numérique correspondant.
 On ne bride pas notre imagination. On garde simplement une trace fiable de ce qui fonctionne réellement.
 
-| **Statut**       | **Signification**                                                                 |
+| **Statut**       | **Signification** |
 |--------------|-------------------------------------------------------------------------------|
-| Native       | Réglage directement pris en charge par l'outil                                 |
+| Native       | Réglage directement pris en charge par l'outil                                |
 | Prompt       | Instruction exprimée en langage naturel                                       |
 | Experimental | Technique à tester, résultat non garanti                                      |
 | Future       | Capacité envisagée pour de futurs modèles                                     |
@@ -45,7 +45,8 @@ Voici les grandes familles que je prévois. Ce n'est pas une liste fermée : nou
 Cela nous donne déjà 12 familles de paramètres à explorer. Chaque famille pourra contenir des dizaines de propriétés et de techniques.
 
 # 3.Comment les intégrer à notre GitHub  
-Je conserverais notre structure validée et j'ajouterais un catalogue transversal d'options.  
+Je conserverais notre structure validée et j'ajouterais un catalogue transversal d'options. 
+
 ```
 labStudio-images/
 │
@@ -74,6 +75,7 @@ labStudio-images/
 ### 4. Une propriété doit être testable  
 Prenons une option ambitieuse : Depth of Field.
 Au lieu d'écrire simplement « profondeur de champ », notre catalogue pourra conserver :
+
 ```
 Depth of Field — Profondeur de champ
 Propriété	Exemple
